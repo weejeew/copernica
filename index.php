@@ -2,13 +2,12 @@
  
 /*
 Plugin Name: Copernica Marketing Software Plugin
-Plugin URI: http://www.esv-media.de
-Description: WordPress Schnittstelle für die Copernica Marketing Software
-Author: Angelo Palazzolo
-Version: 1.3
+Plugin URI: http://crc-online.nl
+Description: A WordPress plug-in to write user(meta) data to a Copernica database.
+Author: Mario
+Version: 1.0
 License: GPL
-Author URI: http://www.esv-media.de
-Update Server: http://www.esv-media.de
+Author URI: http://crc-online.nl
 Min WP Version: 3.3.2
 Max WP Version: 3.3.2
 */
